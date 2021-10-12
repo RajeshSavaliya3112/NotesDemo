@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireNotes</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_email">Enter your Email</string>
+    <string name="hint_confirm_password">Confirm you password</string>
+    <string name="add_note">Add Note</string>
+    <string name="log_out">Log out</string>
+    <string name="hint_content">Content</string>
+    <string name="hint_title">Note Title</string>
+    <string name="save_note">Save Note</string>
+    <string name="no_notes_found">No Notes Found</string>
+    <string name="add_image">Add Image</string>
+</resources>
